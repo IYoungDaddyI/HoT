@@ -1,5 +1,5 @@
 ﻿{
-  "version": "1.0.11",
+  "version": "1.0.12",
   "notes": "Базовая версия клиента. Положите zip сборки в GitHub Release с тем же номером или выше.",
   "asset": "TavernOfHeroes.zip"
 }
